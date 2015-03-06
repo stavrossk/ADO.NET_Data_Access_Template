@@ -1,0 +1,13 @@
+c:\users\σταύρος\documents\visual studio 2010\Projects\ADO.NET data access template\ADO.NET data access template\bin\Debug\ADO.NET data access template.exe.config
+c:\users\σταύρος\documents\visual studio 2010\Projects\ADO.NET data access template\ADO.NET data access template\bin\Debug\ADO.NET data access template.exe
+c:\users\σταύρος\documents\visual studio 2010\Projects\ADO.NET data access template\ADO.NET data access template\bin\Debug\ADO.NET data access template.pdb
+c:\users\σταύρος\documents\visual studio 2010\Projects\ADO.NET data access template\ADO.NET data access template\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\σταύρος\documents\visual studio 2010\Projects\ADO.NET data access template\ADO.NET data access template\obj\x86\Debug\ADO.NET_data_access_template.Form1.resources
+c:\users\σταύρος\documents\visual studio 2010\Projects\ADO.NET data access template\ADO.NET data access template\obj\x86\Debug\ADO.NET_data_access_template.Properties.Resources.resources
+c:\users\σταύρος\documents\visual studio 2010\Projects\ADO.NET data access template\ADO.NET data access template\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\σταύρος\documents\visual studio 2010\Projects\ADO.NET data access template\ADO.NET data access template\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\σταύρος\documents\visual studio 2010\Projects\ADO.NET data access template\ADO.NET data access template\obj\x86\Debug\ADO.NET data access template.exe
+c:\users\σταύρος\documents\visual studio 2010\Projects\ADO.NET data access template\ADO.NET data access template\obj\x86\Debug\ADO.NET data access template.pdb
+P:\Development\DESKTOP\Current\ado.net-data-access-template\ADO.NET data access template\bin\Debug\ADO.NET data access template.exe.config
+P:\Development\DESKTOP\Current\ado.net-data-access-template\ADO.NET data access template\obj\x86\Debug\ADO.NET data access template.exe
+P:\Development\DESKTOP\Current\ado.net-data-access-template\ADO.NET data access template\obj\x86\Debug\ADO.NET data access template.pdb
